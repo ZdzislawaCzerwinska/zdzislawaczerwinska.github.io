@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: center;
+}
+
+.main {
+  width: 72em;
+}
+
+header {
+  padding: 10px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 18pt;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+}
